@@ -1,0 +1,6 @@
+div {
+  /* Borde solido de 2px negro */
+  border: 2px solid black;
+  /* Ancho al 50% */
+  width: 50%;
+}

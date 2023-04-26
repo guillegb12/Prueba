@@ -1,0 +1,37 @@
+/* Comentarios en CSS (Cascading Style Sheets) */
+/* Sintaxis
+Selector {
+  propiedad1: valor1;
+  propiedad2: valor2;
+  .
+  .
+  .
+  propiedadN: valorN;
+}
+*/
+
+/* Para importar otros estilos de diferentes archivos */
+@import "new-style.css";
+
+/* Estilo para todos los elementos */
+* {
+  /* Tipo de fuente */
+  /* Se van aplicando según esten disponibles en el sistema */
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+/* Para todas las etiquetas div */
+* div {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+/* Definición de una clase */
+.paraClase {
+  font-family: Georgia, serif;
+}
+
+/* Definición de un identificador */
+#paraIdentificador {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: black;
+}
