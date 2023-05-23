@@ -1,4 +1,4 @@
-## Bienvenido a mi repositorio de HTML y CSS en GitHub.
+## Bienvenido a mi repositorio de HTML y CSS en GitHub
 
 Este repositorio está dirigido a todas las personas que buscan aprender o repasar las características de **HTML y CSS**.
 
