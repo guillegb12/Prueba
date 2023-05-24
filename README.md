@@ -15,7 +15,7 @@ Todos los archivos son recopilatorios de diversos tutoriales, tareas y ejemplos 
         </title>
     </head>
 	<body>
-        Hola HTML
+        Hola HTML.
     </body>
 </html>
 ```
